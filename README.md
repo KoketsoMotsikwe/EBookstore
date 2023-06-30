@@ -5,7 +5,7 @@ Prerequisites
 XAMPP: Install XAMPP, which includes PHP and MySQL, for running the web application locally. You can download XAMPP from the official website: https://www.apachefriends.org/
 
 Installation
-Clone the repository: git clone[ https://github.com/your-username/e-bookstore.git](https://github.com/Koketso1992/EBookstore.git)
+Clone the repository: git clone(https://github.com/Koketso1992/EBookstore.git)
 Move the project folder to the appropriate directory in the XAMPP installation folder. For example, move it to C:\xampp\htdocs on Windows.
 Start the Apache and MySQL modules in XAMPP.
 Open phpMyAdmin by visiting http://localhost/phpmyadmin in your web browser.
